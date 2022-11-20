@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning**
+- 🌱 I’m currently learning **Machine Learning, Deep learning, NLP**
 
 - 👯 I’m looking to collaborate on **Web Devlopment related Project**
 
