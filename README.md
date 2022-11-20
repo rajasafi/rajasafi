@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep learning, NLP**
 
-- 👯 I’m looking to collaborate on **Web Devlopment related Project**
+- 👯 I’m looking to collaborate on **ML/AI/NLP related Project**
 
 - 💬 Ask me about **related technology, DSA, ML,DL/AI and Kotlin**
 
