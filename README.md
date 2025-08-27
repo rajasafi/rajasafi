@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Raja Safi</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajasafi&label=Profile%20views&color=0e75b6&style=flat" alt="rajasafi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajasafi" alt="rajasafi" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **Java SpringBoot**
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning, NLP**
+- 🌱 I’m continuously learning and enhancing my expertise in backend development using ** Spring Boot, Redis caching, and database optimization (MySQL, NoSQL).**
 
-- 👯 I’m looking to collaborate on **ML/AI/NLP related Project**
+- 👯 I’m looking to collaborate on **Backend development/ML/AI related Project**
 
-- 💬 Ask me about **related technology, DSA, ML,DL/AI and Kotlin**
+- 💬 Ask me about **Java, Spring Boot, backend architecture, data structures & algorithms,ML,DL/AI**
 
 - 📫 How to reach me **rajasafi732@gmail.com**
 
