@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java SpringBoot**
 
-- 🌱 I’m continuously learning and enhancing my expertise in backend development using ** Spring Boot, Redis caching, and database optimization (MySQL, NoSQL).**
+- 🌱 I’m continuously learning and enhancing my expertise in backend development using **Spring Boot, Redis caching, and database optimization (MySQL, NoSQL).**
 
 - 👯 I’m looking to collaborate on **Backend development/ML/AI related Project**
 
